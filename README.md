@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @HectorDev04
-- 👀 I’m interested in Back-end development 
-
+- 👀 I’m interested in Back-end and Front-end development 
 
